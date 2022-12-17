@@ -1,4 +1,4 @@
-## Welcome to Skills Hub
+## Welcome to Growth Hub
 
 ## Summary
 
