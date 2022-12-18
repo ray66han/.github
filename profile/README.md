@@ -5,7 +5,10 @@ Skillstest.me is a question-based learning platform, we aim to help the learner 
 
 Visit our platform  [Skills Test](https://skillstest.me)
 
+```
 1. Select your topic -> 2. Go through questions and answer -> 3. Get result
+
+```
 
 ## Mission
 Our mission is to help students globally to learn particular topics and make living 
