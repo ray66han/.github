@@ -11,8 +11,7 @@ Visit our platform  [Skills Test](https://skillstest.me)
 ```
 
 ## Mission
-Our mission is to help students globally to learn particular topics and make living 
-
+Our mission is to help 10 million students globally to learn particular topics through question and answer based learning and improve their living standards. 
 
 ## Want to contribute?  
 This is an open-source project and we need your help, Join us to help learners around the glob to learn to earn and improve their lives. 
