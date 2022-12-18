@@ -15,9 +15,11 @@ Our mission is to help students globally to learn particular topics and make liv
 This is an open-source project and we need your help, Join us to help learners around the glob to learn to earn and improve their lives. 
 
 ```
-        1. Q&A ( Please select the repositires and topics you want to add questions and answer ) 
-        2. Quick hacks (Please select the repositires and topics and share the hacks ) 
-        3. Issues (Please select the repositires and topics list issues and solution )
-        4. Code examples (Please select the repositires and topics share code example)
+        1. Q&A ( Please select the repositories and topics you want to add questions and answer ) 
+        2. Quick hacks (Please select the repositories and topics and share the hacks ) 
+        3. Issues (Please select the repositories and topics list issues and solutions)
+        4. Code examples (Please select the repositories and topics and share code examples)
+
+
 
 ```
