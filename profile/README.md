@@ -3,7 +3,7 @@ Skillstest.me is a question-based learning platform, we aim to help the learner 
 
 ## Process 
 
-Visit our platform  [Skills Test](https://skillstest.me) \
+Visit our platform  [Skills Test](https://skillstest.me)
 
 1. Select your topic -> 2. Go through questions and answer -> 3. Get result
 
