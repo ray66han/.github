@@ -4,6 +4,4 @@
 
 ## Mission
 
-## Vission  
-
 ## Contributor 
